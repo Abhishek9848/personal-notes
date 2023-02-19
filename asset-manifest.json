@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/personal-notes/static/js/main.dfd0a17d.js",
+    "static/js/787.cbccc9dd.chunk.js": "/personal-notes/static/js/787.cbccc9dd.chunk.js",
+    "index.html": "/personal-notes/index.html",
+    "main.dfd0a17d.js.map": "/personal-notes/static/js/main.dfd0a17d.js.map",
+    "787.cbccc9dd.chunk.js.map": "/personal-notes/static/js/787.cbccc9dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfd0a17d.js"
+  ]
+}
