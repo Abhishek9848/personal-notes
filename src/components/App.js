@@ -8,7 +8,7 @@ function App() {
   const [notes, setNotes] = useState(
     JSON.parse(localStorage.getItem("notes")) || []
   );
-
+  
   function addNote(newNote) {
     setNotes((prevNotes) => {
       localStorage.setItem("notes", JSON.stringify([...prevNotes, newNote]));
